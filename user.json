@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Vedika Chavan",
+        "password": "123654",
+        "age": "24",
+        "Email": "vedika@gmail.com",
+        "phone_number": "8541268952",
+        "address": "Mumbai",
+        "order history": {
+            "04-30-2022": [
+                "Dosa",
+                "Chicken"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Vishal",
+        "password": "1248963",
+        "age": "28",
+        "Email": "vishal@gmail.com",
+        "phone_number": "9821468756",
+        "address": "Pune",
+        "order history": {
+            "04-30-2022": [
+                "Chicken",
+                "Panipuri"
+            ]
+        }
+    }
+]
